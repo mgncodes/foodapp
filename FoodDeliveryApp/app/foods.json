@@ -1,0 +1,54 @@
+{
+  "Food": {
+   "01": {
+      "Name": "Briyani",
+      "Description": "A famous, traditional, rich-flavored dish, layered with rice, mutton and thick spicy gravy...",
+      "Price": "100"
+    },
+    "02": {
+      "Name": "Paneer Butter Masala",
+      "Description": "Rich, creamy and delicious paneer, mixed with exotic masala gravy and a splash of butter. Best served with Naan or Parotta...",
+      "Price": "100"
+    },
+    "03": {
+      "Name": "Butter Naan",
+      "Description": "Delicious Naan bread, Sizzled with Butter...",
+      "Price": "150"
+    },
+    "04": {
+      "Name": "Egg Fried Rice",
+      "Description": "Rice Stir-Fried with egg and healthy vegetables, with a nice Chinese touch...",
+      "Price": "100"
+    },
+    "05": {
+      "Name": "Noodles",
+      "Description": "freshly-made hakka noodles mixed with exotic spices and vegetables...",
+      "Price": "100"
+    },
+    "06": {
+      "Name": "Masal Dosa",
+      "Description": "The popular South-Indian Dish, consumed with spicy and delicious potato masala...",
+      "Price": "80"
+    },
+    "07": {
+      "Name": "Manchurian",
+      "Description": "A semi-gravy dish with delicious and tasty vegetable balls...",
+      "Price": "200"
+    },
+    "08": {
+      "Name": "Chicken 65",
+      "Description": "Spicy, deep-fried crispy chicken starter",
+      "Price": "200"
+    },
+    "09": {
+      "Name": "Parotta",
+      "Description": "Layered, delicious and Popular South-Indian dish... Famous in our outlets..",
+      "Price": "100"
+    },
+     "10": {
+      "Name": "Shawarma",
+      "Description": "A traditional dish made of Marinated Chicken served with whole meal bread with colourful vegetables and spices...",
+      "Price": "200"
+    },
+  }
+}
